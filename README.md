@@ -4,10 +4,6 @@ shobek lobek food delivery application, order food online
 
 **check the shobek-lobek-api repo for the api associated with this project**
 
-**check the shobek-lobek-delivery-service-dashboard repo for the delivery service dashboard associated with this project**
-
-**check the shobek-lobek-restaurants-dashboard repo for the restaurants dashboard associated with this project**
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
